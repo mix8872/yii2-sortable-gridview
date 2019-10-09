@@ -10,11 +10,11 @@
 		},
 		{
 			"name" : "Mix872",
-			"email" : "mix8872@gmail.com",
+			"email" : "mix8872@gmail.com"
 		}
 	],
 	"support" : {
-		"email" : "mix8872@gmail.com",
+		"email" : "mix8872@gmail.com"
 	},
 	"autoload" : {
 		"psr-4" : {
