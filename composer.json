@@ -1,5 +1,5 @@
 {
-	"name" : "richardfan1126/yii2-sortable-gridview",
+	"name" : "mix8872/yii2-sortable-gridview",
 	"description" : "Sortable GridView for Yii2",
 	"type" : "yii2-extension",
 	"license" : "MIT",
@@ -7,16 +7,18 @@
 			"name" : "Richard Fan",
 			"email" : "richardfan1126@gmail.com",
 			"homepage" : "https://fancy-digital.com"
+		},
+		{
+			"name" : "Mix872",
+			"email" : "mix8872@gmail.com",
 		}
 	],
 	"support" : {
-		"email" : "richardfan1126@gmail.com",
-		"issues" : "https://github.com/richardfan1126/yii2-sortable-gridview/issues",
-		"wiki" : "https://github.com/richardfan1126/yii2-sortable-gridview/wiki"
+		"email" : "mix8872@gmail.com",
 	},
 	"autoload" : {
 		"psr-4" : {
-			"richardfan\\sortable\\" : ""
+			"mix8872\\sortable\\" : ""
 		}
 	},
 	"keywords" : [
@@ -28,6 +30,6 @@
 	"require" : {
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui" : "*",
-		"yiisoft/yii2-bootstrap" : "~2.0.0"
+		"yiisoft/yii2-bootstrap4" : "^2.0"
 	}
 }
